@@ -1,3 +1,3 @@
 # aidevops
 
-for AiDevOps training purpose on AWS
+for AiDevOps training purpose on AWS cloud
